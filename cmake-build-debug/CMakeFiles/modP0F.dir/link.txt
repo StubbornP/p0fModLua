@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -fPIC -g  -shared -Wl,-soname,libmodP0F.so -o libmodP0F.so CMakeFiles/modP0F.dir/library.c.o CMakeFiles/modP0F.dir/api.c.o CMakeFiles/modP0F.dir/fp_http.c.o CMakeFiles/modP0F.dir/fp_mtu.c.o CMakeFiles/modP0F.dir/fp_tcp.c.o CMakeFiles/modP0F.dir/process.c.o CMakeFiles/modP0F.dir/readfp.c.o 

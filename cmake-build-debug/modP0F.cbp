@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="modP0F"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/stubborn/CLionProjects/modP0F/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/stubborn/CLionProjects/modP0F/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/stubborn/CLionProjects/modP0F/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="modP0F">
+				<Option output="/home/stubborn/CLionProjects/modP0F/cmake-build-debug/libmodP0F.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stubborn/CLionProjects/modP0F/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 modP0F"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="modP0F/fast">
+				<Option output="/home/stubborn/CLionProjects/modP0F/cmake-build-debug/libmodP0F.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/stubborn/CLionProjects/modP0F/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/x86_64-redhat-linux"/>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../include/c++/4.8.5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 modP0F/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/stubborn/CLionProjects/modP0F/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/alloc-inl.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/api.c">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/api.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/config.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/debug.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/fp_http.c">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/fp_http.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/fp_mtu.c">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/fp_mtu.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/fp_tcp.c">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/fp_tcp.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/hash.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/languages.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/library.c">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/library.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/process.c">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/process.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/readfp.c">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/readfp.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/tcp.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/types.h">
+			<Option target="modP0F"/>
+		</Unit>
+		<Unit filename="/home/stubborn/CLionProjects/modP0F/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

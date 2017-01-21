@@ -1,0 +1,1 @@
+CMake: 3.6.3@/run/media/stubborn/d7b3cdc0-8e92-3c40-a780-f1287a800a43/clion-2016.3.2/bin/cmake/bin/cmake

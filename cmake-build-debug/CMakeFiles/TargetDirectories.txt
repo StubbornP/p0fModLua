@@ -1,0 +1,3 @@
+/home/stubborn/CLionProjects/modP0F/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stubborn/CLionProjects/modP0F/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stubborn/CLionProjects/modP0F/cmake-build-debug/CMakeFiles/modP0F.dir
